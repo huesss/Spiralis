@@ -3,4 +3,4 @@ project(Spiralis)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(githui main.cpp)
+add_executable(Spiralis main.cpp)
